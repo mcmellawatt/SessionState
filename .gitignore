@@ -1,0 +1,5 @@
+/packages/
+!packages/repositories.config
+/SessionStatePerformanceTestMVC/bin/
+/.vs/
+/.git/
